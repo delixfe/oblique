@@ -1,7 +1,7 @@
 // CI/CD colors
-$venetian-red: #dc0018;
+$venetian-red: #304FFE; //#dc0018;
 $red: #f7001d;	// unused
-$cerulean: #006699;
+$cerulean: #3F51B5;// #006699;
 $malibu: #66afe9;	// used only for bootstrap
 $pattens-blue: #d8e8ef;	// unused
 $solitude: #e7edef;		// unused
@@ -19,20 +19,22 @@ $black: #000000;
 
 // Oblique colors
 // http://mcg.mbitson.com/#!?mcgpalette0=%23ffc81b&themename=mcgtheme
-$primary-50: #f2f7fa;	// $brand-default
-$primary-100: #cce0eb;
-$primary-200: #99c2d6;
-$primary-300: #66a3c2;
-$primary-400: #267da8;	// $white
-$primary-500: $cerulean;
-$primary-600: #0a5b84;
-$primary-700: #14516f;
-$primary-800: #214456;
-$primary-900: #293d47;
-$primary-a100: #90c0ff;		// not from Fridolin
-$primary-a200: #5da3ff;		// not from Fridolin
-$primary-a400: #2a85ff;		// not from Fridolin
-$primary-a700: #1077ff;		// not from Fridolin
+// https://material.io/archive/guidelines/style/color.html#color-color-palette
+// Indigo
+$primary-50: #E8EAF6;	// $brand-default
+$primary-100: #C5CAE9;
+$primary-200: #9FA8DA;
+$primary-300: #7986CB;
+$primary-400: #5C6BC0;	// $white
+$primary-500: #3F51B5; //$cerulean;
+$primary-600: #3949AB;
+$primary-700: #303F9F;
+$primary-800: #283593;
+$primary-900: #1A237E;
+$primary-a100: #8C9EFF;		// not from Fridolin
+$primary-a200: #536DFE;		// not from Fridolin
+$primary-a400: #3D5AFE;		// not from Fridolin
+$primary-a700: #304FFE;		// not from Fridolin
 
 $error-50: #fdeaee;	// $brand-default
 $error-100: #fbcad2;
